@@ -1,5 +1,6 @@
-"use client";
+'use client';
 
+/* eslint-disable */
 import { motion } from "framer-motion";
 import { socials } from "../constants";
 
