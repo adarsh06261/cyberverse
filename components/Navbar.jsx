@@ -1,5 +1,5 @@
 "use client";
-
+/* eslint-disable */
 import { motion } from "framer-motion";
 
 import styles from "../styles";
